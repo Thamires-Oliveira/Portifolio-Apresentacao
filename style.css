@@ -441,11 +441,11 @@ h3{
 transform: scale(1.1);
 }
 #left{
-    top: 325%;
+    top: 110em;
     left:13%;
 }
 #right{
-    top: 325%;
+    top: 110em;
     right:13%;
 }
 .balls{
