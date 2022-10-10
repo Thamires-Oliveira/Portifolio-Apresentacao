@@ -41,7 +41,7 @@ nav{
     list-style: none;
     display: flex;
     font-size: 15px;
-   margin-top:1%;
+    /* margin-top:1%; */
 }
 .nav-list a{
     
@@ -51,6 +51,10 @@ nav{
     letter-spacing:3px;
     margin-left: 25px;
 }
+
+
+
+/*PARTE MOBILE*/
 .mobile-menu{
     cursor: pointer;
     display: none;
@@ -111,6 +115,7 @@ nav{
 .mobile-menu.active .line3{
     transform: rotate(45deg) translate(-5px,-7px) ;
 }
+/*-----------------------------*/
 .menu img{
   height: 6vh;
   margin-right: 20vw;
