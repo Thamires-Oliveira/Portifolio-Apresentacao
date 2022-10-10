@@ -403,7 +403,7 @@ h3{
 
  .certificados h3{
     left: -10vw;
-    margin-top: 5vw;
+    margin-top:0;
     margin-bottom: 5em;
  }
 .slide{
@@ -476,6 +476,7 @@ transform: scale(1.1);
     position: relative;
     left: 10vw;
     margin-top: 5em;
+    margin-bottom: 3em;
     
  }
  .projetos{
@@ -499,7 +500,7 @@ transform: scale(1.1);
     width:6em;
     height: 6em;
     margin-left: 4em;
-    margin-top: 10em;
+    margin-top:5em;
 }
 .projetos-left{
     display: flex;
@@ -532,11 +533,11 @@ display: flex;
     position: absolute;
 }
 .img-laptop{
-    margin-top: 6em;
+    margin-top: 4em;
     width: 40vw;
 }
 .img-placa{
-    margin-top: 16em;
+    margin-top: 11em;
     width: 10vw;
     margin-left: 15vw;
 }
