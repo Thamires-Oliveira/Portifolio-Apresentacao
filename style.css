@@ -238,9 +238,9 @@ h2::after{
 
 .about-me .bg-about-me{
     position: relative;
-    height: 30em;
+    height:auto;
     width: 85vw;
-    padding: 50px;
+    padding:5vw;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
     margin: 0 auto 0 auto;  
     top:50%;
