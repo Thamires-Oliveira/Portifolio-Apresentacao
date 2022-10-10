@@ -90,6 +90,8 @@ nav{
         transform: translateX(0);
     }
 }
+
+
 @keyframes navLinkFade{
     from{
         opacity: 0;
@@ -200,9 +202,9 @@ h2{
     text-align: start;
     position: absolute;
     z-index: -1;
-    top: 5.5em;
+    top: 2em;
     left:45vw;
-    font-size: 4em;
+    font-size: 2em;
     color:yellowgreen ;  
 }
 h2::after{
