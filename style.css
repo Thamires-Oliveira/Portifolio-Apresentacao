@@ -557,7 +557,6 @@ display: flex;
 }
 #apresentacao a{
     text-decoration: none;
-    background-color: #325dd3;
 }
 .btn-download::before{
 content: "";
