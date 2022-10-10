@@ -540,8 +540,10 @@ display: flex;
     width: 10vw;
     margin-left: 15vw;
 }
+/*Botao downoad CV*/
 .btn-download img{
     width: 30px;
+    margin-bottom:-0.5em;
 }
 .btn-download{
     font-size: 20px;
@@ -555,6 +557,7 @@ display: flex;
 }
 #apresentacao a{
     text-decoration: none;
+    background-color: #325dd3;
 }
 .btn-download::before{
 content: "";
@@ -579,7 +582,7 @@ position: absolute;
     position: relative;
 
 }
-
+/*--------------------------------*/
 @keyframes animate_border{
     to{
         transform:translateX(-50%)
