@@ -611,9 +611,10 @@ position: absolute;
 .col-sm-2{
     position: relative;
     min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left:3em;
+    padding-right: 3em;
     float:left;
+    margin-top:4em;
 }
 .col-sm-3{
      position: relative;
@@ -622,6 +623,7 @@ position: absolute;
     padding-right: 15px;
     float:left;
     width: 25%;
+    margin-top:4em;
 }
 #myFooter {
     background-color: #3c3d41;
@@ -643,6 +645,7 @@ position: absolute;
 #myFooter .row {
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 5em;
 }
 
 #myFooter .navbar-brand {
@@ -720,7 +723,7 @@ position: absolute;
 
 .logo-footer h2{
     color:#ababab ;
-    top: 555vh;
+    top:90em;
     left: 5vw;
     z-index: 0;
 }
