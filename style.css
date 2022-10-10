@@ -154,17 +154,17 @@ nav{
     justify-content: center;
     flex-direction: column;
     margin: 0 15vw 0 15vw;
-   
 
 }
 #apresentacao h1{
+    background-color: #00aced;
     font-size: 60px;
     display: block;
     text-align: right;
     justify-content: center;
     flex-direction: column;
     margin-top: 3em;
-    margin-bottom: -160px;
+    margin-bottom: -4em;
     margin-left: 25vw;
     color:  rgba(109, 129, 133, 0.938);
 }
@@ -207,8 +207,8 @@ h2{
     text-align: start;
     position: absolute;
     z-index: -1;
-    top: 5.5em;
-    left:45vw;
+    top: 8em;
+    left:48vw;
     font-size: 2em;
     color:yellowgreen ;  
 }
