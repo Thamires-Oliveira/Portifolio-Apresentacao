@@ -206,7 +206,7 @@ h2{
     text-align: start;
     position: absolute;
     z-index: -1;
-    top: 8em;
+    top: 16rem;
     left:48vw;
     font-size: 2em;
     color:yellowgreen ;  
@@ -441,11 +441,11 @@ h3{
 transform: scale(1.1);
 }
 #left{
-    top: 105em;
+    top: 105rem;
     left:13%;
 }
 #right{
-    top: 105em;
+    top: 105rem;
     right:13%;
 }
 .balls{
