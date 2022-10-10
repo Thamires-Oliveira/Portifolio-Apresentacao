@@ -608,7 +608,21 @@ position: absolute;
     transform: translate3d(0px,0px,0px);
 }
 
-
+.col-sm-2{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float:left;
+}
+.col-sm-3{
+     position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float:left;
+    width: 25%;
+}
 #myFooter {
     background-color: #3c3d41;
     color: white;
@@ -619,7 +633,7 @@ position: absolute;
 }
 
 #myFooter .footer-copyright {
-    margin-top: 2vw;
+    margin-top:15em;
     background-color: #333333;
     padding-top: 3px;
     padding-bottom: 3px;
