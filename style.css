@@ -745,11 +745,11 @@ width: 20vw;
 .fa-envelope:before {
     content: "\f0e0";
 }
-@media(min-width:1400px){
- h2{
-    top: 20rem;
-    font-size: 3em;
- }
+@media(max-width:1500px){
+    h2{
+       top: 20rem;
+       font-size: 3em;
+    }
 }
 
 /*deixando responsivo*/
