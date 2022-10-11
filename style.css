@@ -441,12 +441,12 @@ h3{
 transform: scale(1.1);
 }
 #left{
-    top: 105rem;
-    left:13%;
+    top: 110rem;
+    left:18%;
 }
 #right{
-    top: 105rem;
-    right:13%;
+    top: 110rem;
+    right:18%;
 }
 .balls{
     position: absolute;
@@ -753,6 +753,23 @@ width: 20vw;
     }
     .logos{
         padding-top: 10em;
+    }
+    #left{
+        top: 138rem;
+        left:15%;
+    }
+    #right{
+        top: 138rem;
+        right:15%;
+    }
+    .certificados h3{
+        margin-top: 3em;
+    }
+    .projetos-left img{
+        margin-top: 8em;
+    }
+    .img-placa{
+        margin-top: 14em;
     }
 }
 /*deixando responsivo*/
