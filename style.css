@@ -723,7 +723,7 @@ position: absolute;
 
 .logo-footer h2{
     color:#ababab ;
-    top:90em;
+    top:93em;
     left: 5vw;
     z-index: 0;
 }
@@ -733,7 +733,7 @@ position: absolute;
 
 .social-networks{
 position: absolute;
-margin-left:0;
+margin-left:12em;
 width: 20vw;
 }
 .fa-github-square:before {
@@ -771,6 +771,11 @@ width: 20vw;
     .img-placa{
         margin-top: 14em;
     }
+    .logo-footer h2{
+        top:76.5em; 
+    }
+    .social-networks{
+    margin-left:23em;
 }
 /*deixando responsivo*/
 @media(max-width:999px){
