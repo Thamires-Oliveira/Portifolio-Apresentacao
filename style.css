@@ -755,8 +755,6 @@ width: 20vw;
 /*deixando responsivo*/
 @media(max-width:999px){
 
-    
-
 /*Nome, imagem, hello word e botão download*/
    #apresentacao{
         height: auto;
