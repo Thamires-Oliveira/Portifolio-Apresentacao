@@ -751,6 +751,9 @@ width: 20vw;
        font-size: 3em;
        left:48vw;
     }
+    .logos{
+        padding-top: 10em;
+    }
 }
 /*deixando responsivo*/
 @media(max-width:999px){
