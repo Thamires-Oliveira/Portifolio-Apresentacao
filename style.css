@@ -207,7 +207,7 @@ h2{
     position: absolute;
     z-index: -1;
     top: 16rem;
-    left:48vw;
+    left:50vw;
     font-size: 2em;
     color:yellowgreen ;  
 }
@@ -749,6 +749,7 @@ width: 20vw;
     h2{
        top: 20rem;
        font-size: 3em;
+       left:48vw;
     }
 }
 /*deixando responsivo*/
