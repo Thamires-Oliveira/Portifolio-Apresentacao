@@ -777,6 +777,7 @@ width: 20vw;
     .social-networks{
     margin-left:23em;
 }
+}
 /*deixando responsivo*/
 @media(max-width:999px){
 /*Nome, imagem, hello word e botão download*/
@@ -1071,4 +1072,3 @@ width: 20vw;
 }
 
 }
- 
