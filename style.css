@@ -518,7 +518,7 @@ transform: scale(1.1);
     font-size:50px;
     margin-left: 5vw;
     margin-top: 6em;
-    color: #ababab;
+    color: #ff8800;
 }
 
 .projetos-left-content{
@@ -527,7 +527,7 @@ margin-left: 5vw;
 font-size:25px;
 margin-top: 16em;
 width: 25%;
-color: #1b012a;
+color: #ababab;
 }
 .projetos-right{
 display: flex;
