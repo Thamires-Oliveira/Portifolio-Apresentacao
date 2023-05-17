@@ -437,7 +437,7 @@ h3{
     justify-content: center;
     cursor: pointer;
     transition: all 0.4s;
-    margin-top: 50px;
+    /* margin-top: 50px; */
    
 }
 .btn:hover{
