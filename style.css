@@ -168,7 +168,7 @@ nav{
     margin-top: 3em;
     margin-bottom: -4em;
     margin-left: 25vw;
-    color:  rgba(109, 129, 133, 0.938);
+    color:#a399a9;
 }
 
 .img-wrapper{
@@ -212,7 +212,7 @@ h2{
     top: 16rem;
     left:50vw;
     font-size: 2em;
-    color:yellowgreen ;  
+    color:#00ff88 ;  
 }
 h2::after{
     content: "|";
