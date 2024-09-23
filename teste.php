@@ -1,0 +1,1 @@
+<?php echo 'Este é um arquivo de teste'; ?>
